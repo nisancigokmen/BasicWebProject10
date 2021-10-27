@@ -1,0 +1,139 @@
+    body {
+        margin: 0px;
+        border: 0px;
+    }
+    /*<------------topTagMenu------------>*/
+    
+    #tagMenu {
+        background-color: #b8b8b8;
+        border-radius: 0.55em;
+        width: 100%;
+        height: 6em;
+        margin-bottom: 1em;
+    }
+    
+    #tagMenu ul {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    #tagMenu ul li {
+        margin-left: 12px;
+        list-style: none;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 21px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    #tagMenu .tagName {
+        margin-right: 24em;
+        margin-bottom: 1em;
+        font-size: 28px;
+        font-family: 'Zen Kaku Gothic Antique', sans-serif;
+        font-family: 'Zen Kurenaido', sans-serif;
+        margin-bottom: 3em;
+    }
+    
+    #tagMenu a {
+        text-decoration: none;
+        color: #000000;
+        border: 1px solid #f2f2f2;
+    }
+    /*<------------------------> */
+    /* -----> left Bar <------*/
+    
+    #leftBar {
+        background-color: antiquewhite;
+        width: 7em;
+        height: 52em;
+        margin-left: 0.75em;
+        padding-right: 3em;
+        border-radius: 2em;
+    }
+    
+    #leftBar ul {
+        padding-bottom: 1em;
+    }
+    
+    #leftBar ul li {
+        list-style: none;
+        margin-top: 3em;
+    }
+    
+    #leftBar img {
+        margin-right: 2em;
+        margin-top: 5em;
+    }
+    
+    #leftBar img:hover {
+        border: 4px solid #f2f2f2;
+    }
+    
+    #leftbarAndfieldset {
+        display: flex;
+    }
+    /*--------tag fieldset 1----------*/
+    
+    #tag-fieldset fieldset {
+        display: inline;
+        margin-top: 2em;
+        margin-left: 2em;
+        width: 21em;
+        height: 54em;
+        margin-right: 2em;
+    }
+    
+    #tag-fieldset fieldset h2 {
+        margin-left: 5em;
+    }
+    /*<-------------------------------->*/
+    /*--------tag fieldset 2----------*/
+    
+    #tag-fieldset2 fieldset {
+        display: inline;
+        margin-top: 2em;
+        margin-left: 2em;
+        width: 21em;
+        height: 54em;
+        margin-right: 2em;
+    }
+    
+    #tag-fieldset2 fieldset h2 {
+        margin-left: 6em;
+    }
+    /*<-------------------------------->*/
+    /*--------tag fieldset 3----------*/
+    
+    #tag-fieldset3 fieldset {
+        display: inline;
+        margin-top: 2em;
+        margin-left: 2em;
+        width: 21em;
+        height: 54em;
+        margin-right: 2em;
+    }
+    
+    #tag-fieldset3 fieldset h2 {
+        margin-left: 3em;
+    }
+    /*<-------------------------------->*/
+    /*--------tag fieldset 4----------*/
+    
+    #tag-fieldset4 fieldset {
+        display: inline;
+        margin-top: 2em;
+        margin-left: 2em;
+        width: 21em;
+        height: 54em;
+        margin-right: 2em;
+    }
+    
+    #tag-fieldset4 fieldset h2 {
+        margin-left: 3em;
+    }
+    
+    #tag-fieldset4 img {
+        margin-left: 4em;
+    }
+    /*<-------------------------------->*/
