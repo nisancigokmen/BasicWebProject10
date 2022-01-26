@@ -28,5 +28,7 @@
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
 <img src="https://media2.giphy.com/media/h3u7w8BR07IHDsnzQw/giphy.gif?cid=ecf05e47uh98qt2h4hh8me1asuhxcsl06paahxu4e3e0e4ml&rid=giphy.gif&ct=g">
-  
+    <br> <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
   
